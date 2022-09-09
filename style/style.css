@@ -1,8 +1,10 @@
+body{ background: #f8e8a6;}
 footer{
     display:flex;
     justify-content:center;
     margin:0 auto;}
-    .links{padding-right: 20px;}
+    .links{padding-right: 20px;
+        color:green;}
 
     p{text-align: center;}
 
@@ -15,4 +17,3 @@ footer{
     }
     h1{ text-align: center;}
    
-    
